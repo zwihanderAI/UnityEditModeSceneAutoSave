@@ -1,0 +1,2 @@
+# UnityEditModeSceneAutoSave
+Editモード中にて定期的に上書き保存する
